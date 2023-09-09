@@ -1,0 +1,1 @@
+select name, surname from NickDB.PERSONS where city_of_living='Moscow'
